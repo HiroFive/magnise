@@ -1,0 +1,5 @@
+const MILLISECONDS_IN_HOURE = 3600000
+
+module.exports = {
+    MILLISECONDS_IN_HOURE
+}
